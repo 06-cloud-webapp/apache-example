@@ -1,0 +1,20 @@
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.16.1/firebase-firestore.js"></script>
+
+    <script>
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+          apiKey: "AIzaSyDY3-ZDveMncJc7gkGd9f58YrhzYwtBb34",
+          authDomain: "project-test-e1d15.firebaseapp.com",
+          projectId: "project-test-e1d15",
+          storageBucket: "project-test-e1d15.appspot.com",
+          messagingSenderId: "902277231900",
+          appId: "1:902277231900:web:19af6f5e130193f8c576d9"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+      </script>

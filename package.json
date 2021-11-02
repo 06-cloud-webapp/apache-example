@@ -1,0 +1,20 @@
+{
+  "name": "apache-example",
+  "version": "1.0.0",
+  "description": "## Try or Contribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/06-cloud-webapp/apache-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/06-cloud-webapp/apache-example/issues"
+  },
+  "homepage": "https://github.com/06-cloud-webapp/apache-example#readme"
+}
